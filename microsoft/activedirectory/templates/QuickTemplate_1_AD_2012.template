@@ -33,9 +33,6 @@
             "eu-central-1" : {
                 "64" : "ami-204c7a3d"
             },
-            "ap-southeast-1" : {
-                "64" : "ami-b082dae2"
-            },
             "ap-southeast-2" : {
                 "64" : "ami-996402a3"
             },
